@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif; 
+    color:midnightblue;
+    text-align: center;
+}
+body {
+    background-color: lightseagreen;
+    width: 960px;
+    margin: 0 auto;
+}
+nav {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+li {
+    display: inline;
+    padding: 5px;
+}
+section {
+    overflow: auto;
+    height: 100%;
+}
+main {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
+article {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+    width: 280px;
+    float: left;
+}
+.nick {
+    background-color: aqua;
+}
+footer {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px;
+}
