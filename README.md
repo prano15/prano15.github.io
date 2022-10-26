@@ -1,2 +1,2 @@
 # prano15.github.io
-LIS 351 Website Project
+My website for LIS 351
